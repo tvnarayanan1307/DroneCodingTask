@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneCodingTest", "DroneCodingTest\DroneCodingTest.csproj", "{89E0E540-5A02-4610-B9F3-479A2AE891B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneTestProject", "DroneTestProject\DroneTestProject.csproj", "{E9E0524D-A4C2-4050-A136-38A056127B87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E0E540-5A02-4610-B9F3-479A2AE891B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E0E540-5A02-4610-B9F3-479A2AE891B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E0E540-5A02-4610-B9F3-479A2AE891B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E0E540-5A02-4610-B9F3-479A2AE891B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E0524D-A4C2-4050-A136-38A056127B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E0524D-A4C2-4050-A136-38A056127B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E0524D-A4C2-4050-A136-38A056127B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E0524D-A4C2-4050-A136-38A056127B87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0FEA49E-5C2C-4BDD-9343-BBEAA28D5BBB}
+	EndGlobalSection
+EndGlobal
